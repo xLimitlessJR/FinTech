@@ -1,8 +1,8 @@
-# FinTech
-Repository for UM FinTech Bootcamp
+# FinTech Bootcamp
 
-I am Jon Raccah, an investment professional with a specific proficiency in private equity
+![My Image](https://s3-us-west-2.amazonaws.com/medici-prod/root/Medici/public/uploads/original_financial-technology-fintech.jpg?1587658976)
 
-My primary career goal is to have my own private investment vehicle with capital invested in public equities, private equity and real estate
+## Repository for UM FinTech Bootcamp
 
-I havent chosen FinTech as a career path, but rather i am looking to develop a FinTech proficiency to add to my tool set
+### Table of Contents
+
